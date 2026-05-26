@@ -16,3 +16,17 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 2. Navigate to the project directory: cd QR-code-generator
 3. Install the required dependencies: npm install
 4. Run the application using Node.js: node index.js
+
+## Technologies Used
+1. Node.js: JavaScript runtime environment.
+
+2. Inquirer.js: For interactive command-line user prompts.
+
+3. qr-image: To generate the PNG QR code from the provided string.
+
+4. fs (File System): Native Node.js module used to save the user input to a text file.
+
+## Author
+1. Aryan Swarnkar
+
+2. GitHub: @aryanswarnkar
