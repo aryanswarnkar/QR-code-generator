@@ -1,4 +1,4 @@
-readme_content = """# QR Code Generator
+
 
 A simple, interactive command-line application built with Node.js that takes a URL as input and instantly generates a QR code image. 
 
